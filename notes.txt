@@ -1,0 +1,13 @@
+Git & GitHub Lesson Notes
+
+Steps taken:
+Created a gitHub account on the website
+Created a repository on GitHub,
+-added a README and set it up for SSH connection
+to my local shell
+I cloned my local directory to GitHub with:
+git clone git@github.com:emc312/odin-recipe.git
+
+Git add .
+Git commit -m "notes on the commit"
+Git push origin main
