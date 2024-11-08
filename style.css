@@ -1,0 +1,29 @@
+/* style.css */
+
+
+* {
+    background-color: rgb(236, 200, 110);
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+
+h1,
+h2 {
+    text-align: center;
+    color: rgb(224, 136, 136);
+    background-color: rgb(88, 3, 46);
+}
+
+ul,
+li {
+    color: rgb(100, 102, 4);
+}
+
+img {
+    width: 150px;
+    height: auto;
+    
+}
+
+img class="c"
+
+
